@@ -1,0 +1,2 @@
+# Roman adapter
+Load README.md to select the narrowest relevant skill; read its skills/<name>/SKILL.md before acting. Resolve referenced scripts from this library's root. Follow current user instructions, platform policies, and repository-specific rules. Verify your own tool availability; do not assume ChatGPT, Codex, or Copilot connectors exist in Roman. Preserve source links and action status in handoffs. Roman configuration/discovery is unverified; this adapter is ready for manual integration once its runtime is known.

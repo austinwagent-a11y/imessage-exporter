@@ -1,0 +1,1 @@
+For matching Austin business tasks, read docs/austin-agent-workflows/README.md and integrations/austin-skills/GEMINI_WORKSPACE_INSTRUCTIONS.md. Project scope and repository instructions govern; no scheduled AI processing is implied.
